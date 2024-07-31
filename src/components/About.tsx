@@ -7,7 +7,7 @@ const About = () => {
         Bij TVM Media, gevestigd in Nederland, staan we klaar om uw merk naar
         een hoger niveau te tillen. Als gespecialiseerd mediabeheerbureau bieden
         we een breed scala aan diensten aan, waaronder het ontwerpen van
-        opvallende logo's, het bouwen van dynamische websites en het beheren van
+        opvallende logo&apos;s, het bouwen van dynamische websites en het beheren van
         uw volledige media-aanwezigheid. Ons team van ervaren professionals
         werkt nauw samen met u om uw visie tot leven te brengen en een sterke,
         herkenbare identiteit voor uw merk te creëren. Of u nu een nieuw bedrijf
